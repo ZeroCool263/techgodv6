@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by darkzerocool
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @jayden01
+//Instagram: darkzerocool263
+//Telegram: t.me/darkzerocool
+//GitHub: @darkzerocool
+//WhatsApp: +263712473551
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@jayden01
 
 require('./settings')
 const pino = require('pino')
@@ -176,11 +176,11 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ Tech God ᵇᵘᵍ ᵇᵒᵗ ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Tech-God`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: techgod143 `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @tecjgod143 `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 917466008456`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: Tech God Sir\n`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Jayden01`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: darkzerocool `))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @darkzerocool263 `))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 263712473551`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: Dark Zero Cool\n`))
         }
         if (
             connection === "close" &&
