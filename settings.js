@@ -1,36 +1,36 @@
-//base by Tech-God
+//base by ❦★𝘿𝘼𝙍𝙆★❦†𝙕𝙀𝙍𝙊𝘾𝙊𝙊𝙇†𓃵
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @jayden01
+//Instagram: darkzerocool263
+//Telegram: t.me/darkzerocool
+//GitHub: @darkzerocool
+//WhatsApp: +263712473551
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@jayden01
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
-global.ownername = "AASHISH"
-global.ytname = "YT: SHADOW STARCORE"
-global.socialm = "GitHub: dark-tech-zone"
-global.location = "India, Delhi, city"
+global.ownernomer = "263712473551"
+global.ownername = "darkzerocool"
+global.ytname = "YT: jayden01"
+global.socialm = "GitHub: darkzerocool"
+global.location = "zimbabwe, Harare, city"
 
-global.ownernumber = '916378704507'  //creator number
-global.ownername = 'AASHISH' //owner name
-global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '263712473551'  //creator number
+global.ownername = 'darkzerocool' //owner name
+global.botname = 'zerocool ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'AASHISH\n\nContact: +919310763037'
+global.author = 'darkzero\n\nContact: +263712473551'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Tech God Bot Inc."
+global.wm = "Zero Cool Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029VaZypgoIyPtaodVKp61o'
 
 //custom prefix
 global.prefa = ['.']
