@@ -923,7 +923,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                                thumbnailUrl: 'https://i.ibb.co/JtJtcD4/Untitled-design.png',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1231,7 +1231,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `YouTube Tech-God`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://i.ibb.co/JtJtcD4/Untitled-design.png',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1253,7 +1253,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://i.ibb.co/JtJtcD4/Untitled-design.png',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1273,7 +1273,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `Yt Jayden 01`,
                             body: `Love from Zero Cool ❤️`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://i.ibb.co/JtJtcD4/Untitled-design.png',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1293,7 +1293,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `SCRIPT OF darkzerocool is on YouTube Jayden01❤️`,
                             body: `Love You bro 😘`,
-                            thumbnailUrl: 'https://i.ibb.co/mtnkTyf/d524a2c9-b5ef-4c99-9d1e-3f9886882ad3.png',
+                            thumbnailUrl: 'https://i.ibb.co/JtJtcD4/Untitled-design.png',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2402,7 +2402,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/mtnkTyf/d524a2c9-b5ef-4c99-9d1e-3f9886882ad3.png',
+                                thumbnailUrl: 'https://i.ibb.co/JtJtcD4/Untitled-design.png',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2420,7 +2420,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/mtnkTyf/d524a2c9-b5ef-4c99-9d1e-3f9886882ad3.png',
+      thumbnailUrl: 'https://i.ibb.co/JtJtcD4/Untitled-design.png',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
