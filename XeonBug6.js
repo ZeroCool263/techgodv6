@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by darkzerocool
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @jayden01
+//Instagram: darkzerocool263
+//Telegram: t.me/darkzerocool
+//GitHub: @darkzerocool
+//WhatsApp: +263712473551
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@jayden01
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -1271,8 +1271,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `Yt Tech God`,
-                            body: `Love from Tech God ❤️`,
+                            title: `Yt Jayden 01`,
+                            body: `Love from Zero Cool ❤️`,
                             thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1291,9 +1291,9 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `SCRIPT OF techgodv6 is on YouTube Tech God❤️`,
+                            title: `SCRIPT OF darkzerocool is on YouTube Jayden01❤️`,
                             body: `Love You bro 😘`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://i.ibb.co/mtnkTyf/d524a2c9-b5ef-4c99-9d1e-3f9886882ad3.png',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2277,8 +2277,8 @@ break
 case 'clearchat':
 xeonimun('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 break
-case 'techgod':
-xeonimun('Love You ❤️ Dear \n Thanks For using My Bug 🐛 Bot \n\n *Do not Forget To support me by subscribe my channel* \n _Youtube Search Tech God Thanks_ 🙏 😘')
+case 'darkzero':
+xeonimun('Love You ❤️ Dear \n Thanks For using My Bug 🐛 Bot \n\n *Do not Forget To support me by subscribe my channel* \n _Youtube Search Jayden 01 Thanks_ 🙏 😘')
 break
             case 'menu':
             case 'help':
@@ -2289,20 +2289,20 @@ break
 ${xeonytimewisher}
 
 *Do not forget to subscribe*
-> _https://www.youtube.com/@techgod143_
+> _https://www.youtube.com/@jayden01_
 
-*Android Bug ⚠️*
+*Android Bug 😈*
 > xandroid 
 > xandroid2
 > systemuicrash
 > xsysui
-*ios bug 🐛*
+*ios bug 😈*
 > xios
 > xios2
 *Group bug 🦠*
 > xgc
 
-*Owner menu 🔐*
+*Owner menu 😈*
 > getsession
 > deletesession
 > pp
@@ -2324,7 +2324,7 @@ ${xeonytimewisher}
 > delowner
 > bcgc
 
-*Group Menu 👪*
+*Group Menu 😈*
 > closetime
 > opentime
 > kick
@@ -2342,16 +2342,16 @@ ${xeonytimewisher}
 > revoke
 > listonline
 
-*Main menu ❤️*
+*Main menu 😈*
 > menu
-> buypremium   _7466008456_
+> buypremium   _263712473551_
 > runtime
 > script
 > donate
 > owner
 > techgod
 
-*Convert menu 🔄*
+*Convert menu 😈*
 > sticker
 > smeme
 > take
@@ -2367,7 +2367,7 @@ ${xeonytimewisher}
 > fliptext
 > emojimix
 
-*Auto BGM,STICKER,PIC,VIDEO reply 📢*
+*Auto BGM,STICKER,PIC,VIDEO reply 😈*
 > addvideo
 > addimage
 > addsticker
@@ -2390,7 +2390,7 @@ ${xeonytimewisher}
 > listapk
 > listpdf
 
-*Download menu 📥*
+*Download menu 😈*
 > play
 > ytmp3
 > ytmp4
@@ -2402,7 +2402,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                                thumbnailUrl: 'https://i.ibb.co/mtnkTyf/d524a2c9-b5ef-4c99-9d1e-3f9886882ad3.png',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2420,7 +2420,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+      thumbnailUrl: 'https://i.ibb.co/mtnkTyf/d524a2c9-b5ef-4c99-9d1e-3f9886882ad3.png',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
